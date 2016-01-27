@@ -1,0 +1,12 @@
+Project 1 instantly mark
+	-About file input&output
+		input "python <filename1> filename2" in Terminal with "sys.stdin" as the file input parameter and then a file named filename2 will be 			in your path.
+	-About regular experssion
+		re.sub(before_pattern,replace_pattern,string) #substitute before_pattern with replace_pattern in the target string
+		re.match(before_pattern,string) #match the string with given pattern
+		group(number) the numberth part of the matching result
+	-About Inheritance
+		the defined parent class can be the parameter when defining child class
+		
+		
+		
